@@ -1,4 +1,4 @@
-# 謝明瑾 個人網站與 AI 開發專案 (Ming-Chin Hsieh Portfolio)
+#  個人網站與 AI 開發專案 (Ming-Chin Hsieh Portfolio)
 
 這是一個由前端技術 (HTML, CSS, JavaScript) 結合現代化網頁設計美學（如 Glassmorphism 琉璃擬物特效與平滑滾動動畫）所建置的綜合型網頁專案。
 本專案分為兩個主要部分：**個人靜態網頁介紹** 以及 **AI 輔助開發之幼兒互動鋼琴遊戲**。
